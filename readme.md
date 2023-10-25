@@ -13,3 +13,5 @@ A lightweight Deno web server serving content from GitHub and GitLab.
 ### How can I deploy my own sleek module registry?
 
 Just click the button below to get started:
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/zHcmpg?referralCode=_LFOM3)
