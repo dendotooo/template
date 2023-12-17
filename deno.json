@@ -1,6 +1,7 @@
 {
   "imports": {
-    "proxy": "https://den.ooo/proxy@v1.6.0/mod.ts"
+    "den.ooo": "https://esm.sh/den.ooo@1.0.1",
+    "den.ooo/resolvers": "https://esm.sh/den.ooo@1.0.1/resolvers"
   },
   "tasks": {
     "start": "deno run -A main.ts"
