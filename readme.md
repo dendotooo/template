@@ -2,16 +2,10 @@
 
 ### Disclaimer
 
-The proxy and this template are licensed under the [AGPL-3.0 license](https://github.com/dendotooo/proxy/blob/main/license), but you're free to deploy this template to Railway by clicking the below button.
+Our NPM package and this template are licensed under the [MIT license](https://github.com/dendotooo/den.ooo/blob/main/license).
 
-If you want to deploy it on a different infrastructure, please send me a private message on [Discord](https://den.ooo/discord).
+### Don't want to waste any more time?
 
-### Technologies
-
-A lightweight Deno web server serving content from GitHub and GitLab.
-
-### How can I deploy my own sleek module registry?
-
-Just click the button below to get started:
+Click on the button below to get started right away:
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/zHcmpg?referralCode=_LFOM3)
