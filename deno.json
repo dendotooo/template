@@ -1,7 +1,7 @@
 {
   "imports": {
-    "den.ooo": "https://esm.sh/den.ooo@1.0.1",
-    "den.ooo/resolvers": "https://esm.sh/den.ooo@1.0.1/resolvers"
+    "den.ooo": "https://esm.sh/den.ooo@1.1.0",
+    "den.ooo/resolvers": "https://esm.sh/den.ooo@1.1.0/resolvers"
   },
   "tasks": {
     "start": "deno run -A main.ts"
